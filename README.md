@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ## GitHub Stats
-![zEvilz's github stats](https://github-readme-stats.vercel.app/api?username=zevilz&show_icons=true&theme=default&custom_title=Stats)
+![zEvilz's github stats](https://github-readme-stats.vercel.app/api?username=zevilz&show_icons=true&theme=default&hide_title=true)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zevilz&layout=compact&hide=Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zevilz&layout=compact&hide_title=true&hide=Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch
 - Personal site: https://zevilz.dev
